@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a4901e-831a-4772-9663-c308047301e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/controllers/categorys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/claims.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/configuration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/conversations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/countrys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/lineBaskets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/marks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/controllers/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/LineOrder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/basket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/claim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/conversation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/country.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/lineBasket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/mark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/subCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/town.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/models/userNotification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/routes/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/subCategorys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/controllers/towns.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582562017775</updated>
       <workItem from="1582562020818" duration="2175000" />
-      <workItem from="1582801662311" duration="5686000" />
+      <workItem from="1582801662311" duration="7097000" />
     </task>
     <servers />
   </component>
